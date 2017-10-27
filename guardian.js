@@ -153,10 +153,10 @@ function drawViz() {
 
    // Append images
    var emojiImage = svg.append("text")
-          .attr("font-size", "10em")
+          .attr("font-size", "7em")
           .attr("color", "black")
           .text(function(d){ return emojis[rand3].image;})
-         .attr("x", function(d) { return 375;})
+         .attr("x", function(d) { return 400;})
          .attr("y", function(d) { return 150;});
 }
 console.log('keep fetching data oh yeah!')
