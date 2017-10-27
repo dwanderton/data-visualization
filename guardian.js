@@ -68,6 +68,8 @@ var entities = [
   {name: "Steve Jobs", image:"images/steve.png"},
   {name: "Teresa May", image:"images/may.png"},
   {name: "Obama", image:"images/obama.png"},
+  {name: "Einstein", image:"images/einstein.png"},
+  {name: "Kanye", image:"images/kanye.png"},
   /* celebs */
   {name: "Jennifer Aniston", image:"images/jennifer.png"},
   {name: "Brad Pitt", image:"images/brad.png"},
